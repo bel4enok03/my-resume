@@ -1,0 +1,29 @@
+body {
+    background-color: #FFEEEE;
+}
+.heading-top {
+    color: #3F3351;
+    font-size: 40px
+}
+.heading-middle {
+    color: #864879;
+    font-size: 30px
+}
+table {
+    background-color: #FFDDEE;
+    border: #FFDDEE 5px solid;
+}
+th,td {
+    border: #52616b 3px solid;
+}
+
+hr {
+    border: 3px solid #B4ECE3;
+}
+.par {
+    color: #343A40 ;
+    font-size: 18px;
+}
+.italics {
+    font-size: italic;
+}
